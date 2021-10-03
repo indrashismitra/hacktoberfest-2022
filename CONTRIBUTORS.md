@@ -34,4 +34,18 @@
 
 [Arvind Beri](https://github.com/arvindberi)
 
+[Alif Arrizqy](https://github.com/alif-arrizqy)
+
+[Nacho Soria](https://github.com/nsoria042)
+
+[evansusu](https://github.com/evansusu)
+
+[Shreya Shankar](https://github.com/shreya-jpg)
+
+[Suryansh Chopra](https://github.com/SuryanshChopra)
+
+[Sanam Kandar](https://github.com/sanamkandar)
+
+[Pranavi](https://github.com/pranavi79)
+
 [Mariothedog](https://github.com/mariothedog)
