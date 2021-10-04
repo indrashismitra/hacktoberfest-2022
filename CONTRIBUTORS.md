@@ -38,6 +38,16 @@
 
 [Nacho Soria](https://github.com/nsoria042)
 
+[evansusu](https://github.com/evansusu)
+
 [Shreya Shankar](https://github.com/shreya-jpg)
 
 [Suryansh Chopra](https://github.com/SuryanshChopra)
+
+[Sanam Kandar](https://github.com/sanamkandar)
+
+[Pranavi](https://github.com/pranavi79)
+
+[Mariothedog](https://github.com/mariothedog)
+
+[hakxcore](https://github.com/hakxcore)
