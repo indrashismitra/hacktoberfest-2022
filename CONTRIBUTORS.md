@@ -50,4 +50,4 @@
 
 [Mariothedog](https://github.com/mariothedog)
 
-[hakxcore](https://github.com/hakxcore)
+[Indrashis Mitra](https://github.com/indrashismitra)
