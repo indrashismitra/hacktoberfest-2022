@@ -47,3 +47,5 @@
 [Sanam Kandar](https://github.com/sanamkandar)
 
 [Pranavi](https://github.com/pranavi79)
+
+[Mariothedog](https://github.com/mariothedog)
