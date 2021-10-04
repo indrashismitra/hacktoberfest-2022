@@ -49,3 +49,5 @@
 [Pranavi](https://github.com/pranavi79)
 
 [Mariothedog](https://github.com/mariothedog)
+
+[hakxcore](https://github.com/hakxcore)
